@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Board /> rendering inital board and win state matches snapshot for full board 1`] = `
+<DocumentFragment>
+  <table
+    class="Board"
+  >
+    <tbody>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
